@@ -1,2 +1,2 @@
 # Titanic-Machine-Learning-from-Disaster
-The data and ipython notebook of my attempt to solve the kaggle titanic problem
+Utilized Python to analyze what kind of people could survive in a disaster, using ensembling technique achieved 78.7% accuracy.
